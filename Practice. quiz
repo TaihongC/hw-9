@@ -1,4 +1,64 @@
-"if" statement is a programming conditional statement
+1."if" statement is a programming conditional statement
+2. “condition” is the requirement of the function“loop” or “while”. This is the
+prerequisite.
+
+3. Z<19, the maxium integer z can be is 18
+
+z=z+6
+z=18+6
+z=24
+
+4. function setup(){
+createCanvas(200,200);
+background(255);
+function setup() {
+createCanvas(200, 200);
+background(245);
+
+for (var i =10; i <= 90; i = i+10) {
+var startX = i;
+var startY = 10;
+var endX = i+100;
+var endY = 100;
+line(startX, startY, endX, endY);
+}
+for (var a = 110; a <= 190; a = a + 10) {
+var startX1 = a;
+var startY1 = 100;
+var endX1 = a-100;
+var endY1 = 190;
+line(startX1, startY1, endX1, endY1);
+}
+}
+
+5. 
+
+
+6. a 5
+   b  99
+   
+   
+   
+7. variable name X
+    variable number 10  20  30  40  50  60
+    
+    
+    
+    
+  8.   
+    void setup() {
+  pinMode(pin3, OUTPUT);
+ }
+ void loop() {
+  digitalWrite(pin3, HIGH);
+  delay(200);
+  digital write(pin3, low);
+  delay(200);
+ }
+    
+
+
+
 
 
 
